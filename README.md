@@ -2,16 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Improved the codebase, deleteing repeat code, assured all links were functionaling properly, added semantic structure by consolidating divs and veriftying actual elements.
 
-- Purpose was to find ? what why
-- To preform semanticary 
-wew no
-
-
- "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+ "Because it was a homework assignment."
+- Deleted Repetative code 
+- Added in alt attributes  
 
 ## Table of Contents (Optional)
 
